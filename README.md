@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Template for HTML and CSS projects
 
-> Description the project.
+> A template repo that can be used for html and css projects
+> The template includes tools to fix linter errors.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- css
 
 ## Live Demo (if available)
 
@@ -38,19 +38,13 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Authors
+### Author
 
-👤 **Author1**
+👤 **Temesgen Ayneka**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@TemesgenA](https://github.com/TemesgenA)
+- Twitter: [@Temesgen_Ayneka](https://twitter.com/Temesgen_Ayneka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/temesgen-ayneka/)
 
 ## 🤝 Contributing
 
@@ -65,8 +59,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+
 
 ## 📝 License
 
